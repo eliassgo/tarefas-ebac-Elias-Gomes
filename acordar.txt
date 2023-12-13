@@ -1,0 +1,10 @@
+1.  Início
+2.  Abrir os olhos
+3.  Desligar o despertador
+4.  Levantar da cama
+5.  Ir ao banheiro
+6.  Tomar banho
+7.  Escovar os dentes
+8.  Vestir Roupa
+10. Tomar café da manhã
+11. Fim
