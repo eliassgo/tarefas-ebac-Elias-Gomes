@@ -4,7 +4,7 @@
 public class Main {
     public static void main(String[] args) {
         int numA = 3;
-        byte numB = (byte) numA;
+        Integer numB = numA;
 
         System.out.println(numB);
     }
